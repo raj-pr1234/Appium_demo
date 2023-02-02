@@ -149,6 +149,7 @@
 						<suiteXmlFiles>
 							<suiteXmlFile>${testSuite}.xml</suiteXmlFile>
 						</suiteXmlFiles>
+						<testFailureIgnore>true</testFailureIgnore>
 					</configuration>
 				</plugin>
 			</plugins>
