@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 206.974 s <<< FAILURE! - in TestSuite
+runScenario(com.APIDemos.Runner.Run)  Time elapsed: 21.543 s  <<< FAILURE!
+java.lang.AssertionError: 
+expected [(okay -1) Corky!
+] but found [(okay -1) Corky!]
+
+runScenario(com.APIDemos.Runner.Run)  Time elapsed: 24.137 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: Cannot find the element by swiping upnot found (tried for 5 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //android.widget.TextView[@text = 'TextSwitcher']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'IN-3KKJ1J3', ip: '192.168.1.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: driver.version: unknown
+

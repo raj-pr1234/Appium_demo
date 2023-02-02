@@ -1,0 +1,269 @@
+[INFO ] 02-02-2023 10:49:27.768 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:27.931 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:27.935 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:27.938 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:28.333 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:39.990 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:49:40.027 [main] class - *************Executing The Scenario user verify the Alarm controller functions *******************
+[INFO ] 02-02-2023 10:49:40.043 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:40.054 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:40.056 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:40.057 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:40.081 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:40.098 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:40.106 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:40.108 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:40.109 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:40.128 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:40.390 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:49:40.391 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:40.398 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:40.399 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:40.401 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:40.409 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:40.466 [main] class - **************************** Page factory initialization ***********************
+[INFO ] 02-02-2023 10:49:40.466 [main] class - ************** user tap on App ************************
+[INFO ] 02-02-2023 10:49:46.135 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:49:46.136 [main] class - *************Ending The Scenario user verify the Alarm controller functions *******************
+[INFO ] 02-02-2023 10:49:46.164 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:46.171 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:46.172 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:46.173 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:46.186 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:56.266 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:49:56.266 [main] class - *************Executing The Scenario user verify the Alarm service Functions *******************
+[INFO ] 02-02-2023 10:49:56.267 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:56.274 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:56.276 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:56.277 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:56.291 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:56.301 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:56.310 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:56.311 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:56.312 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:56.323 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:56.369 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:49:56.369 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:49:56.375 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:49:56.376 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:49:56.376 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:49:56.385 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:49:56.448 [main] class - **************************** Page factory initialization ***********************
+[INFO ] 02-02-2023 10:49:56.448 [main] class - ************** user tap on App ************************
+[INFO ] 02-02-2023 10:50:02.892 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:50:02.892 [main] class - *************Ending The Scenario user verify the Alarm service Functions *******************
+[INFO ] 02-02-2023 10:50:02.920 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:02.933 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:02.934 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:02.936 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:02.950 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:13.160 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:50:13.160 [main] class - *************Executing The Scenario check the chronometer start and stop *******************
+[INFO ] 02-02-2023 10:50:13.161 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:13.168 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:13.170 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:13.172 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:13.184 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:13.192 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:13.198 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:13.200 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:13.201 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:13.210 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:13.272 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:50:13.274 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:13.280 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:13.281 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:13.282 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:13.293 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:13.356 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:50:19.459 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:50:19.459 [main] class - *************Ending The Scenario check the chronometer start and stop *******************
+[INFO ] 02-02-2023 10:50:19.482 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:19.488 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:19.489 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:19.490 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:19.504 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:30.125 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:50:30.126 [main] class - *************Executing The Scenario user verify the reset functionality *******************
+[INFO ] 02-02-2023 10:50:30.128 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:30.134 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:30.135 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:30.137 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:30.148 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:30.152 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:30.157 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:30.159 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:30.159 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:30.171 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:30.224 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:50:30.224 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:30.229 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:30.230 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:30.231 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:30.245 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:30.309 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:50:44.807 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:50:44.807 [main] class - *************Ending The Scenario user verify the reset functionality *******************
+[INFO ] 02-02-2023 10:50:44.825 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:44.830 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:44.832 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:44.832 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:44.843 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:55.171 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:50:55.171 [main] class - *************Executing The Scenario user verify the formating functionality working *******************
+[INFO ] 02-02-2023 10:50:55.172 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:55.177 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:55.178 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:55.180 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:55.190 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:55.198 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:55.202 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:55.204 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:55.205 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:55.216 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:55.264 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:50:55.265 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:50:55.270 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:50:55.272 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:50:55.273 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:50:55.283 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:50:55.340 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:51:02.625 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:51:02.625 [main] class - *************Ending The Scenario user verify the formating functionality working *******************
+[INFO ] 02-02-2023 10:51:02.647 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:02.657 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:02.658 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:02.659 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:02.673 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:12.850 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:51:12.850 [main] class - *************Executing The Scenario user verify clear format functionality working *******************
+[INFO ] 02-02-2023 10:51:12.852 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:12.856 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:12.857 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:12.857 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:12.866 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:12.873 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:12.876 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:12.877 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:12.877 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:12.886 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:12.947 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:51:12.949 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:12.954 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:12.955 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:12.956 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:12.965 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:13.026 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:51:20.583 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:51:20.583 [main] class - *************Ending The Scenario user verify clear format functionality working *******************
+[INFO ] 02-02-2023 10:51:20.604 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:20.609 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:20.610 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:20.610 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:20.622 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:31.270 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:51:31.270 [main] class - *************Executing The Scenario user verify the get corky button *******************
+[INFO ] 02-02-2023 10:51:31.272 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:31.277 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:31.278 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:31.279 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:31.285 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:31.292 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:31.297 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:31.298 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:31.299 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:31.308 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:31.387 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:51:31.389 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:31.394 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:31.395 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:31.396 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:31.404 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:31.466 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:51:34.243 [main] class - ********************* user tap on app ****************************************
+[INFO ] 02-02-2023 10:51:39.903 [main] class - ***************** This function is used to take the screen shots*********************
+[INFO ] 02-02-2023 10:51:40.311 [main] class - ***************** This function is used to take the screen shots and embedded into extent reports*********************
+[INFO ] 02-02-2023 10:51:40.324 [main] class - ****** Taking screensshot of failed test case ******
+[INFO ] 02-02-2023 10:51:40.741 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:51:40.741 [main] class - *************Ending The Scenario user verify the get corky button *******************
+[INFO ] 02-02-2023 10:51:40.773 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:40.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:40.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:40.781 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:40.822 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:54.412 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:51:54.413 [main] class - *************Executing The Scenario Verify the sms functionality to send the sms successfully *******************
+[INFO ] 02-02-2023 10:51:54.414 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:54.419 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:54.420 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:54.420 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:54.431 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:54.437 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:54.441 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:54.442 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:54.443 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:54.471 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:54.526 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:51:54.528 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:51:54.531 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:51:54.532 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:51:54.532 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:51:54.540 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:51:54.597 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:52:04.713 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:52:04.713 [main] class - *************Ending The Scenario Verify the sms functionality to send the sms successfully *******************
+[INFO ] 02-02-2023 10:52:04.733 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:04.739 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:04.739 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:04.740 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:04.749 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:21.536 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:52:21.536 [main] class - *************Executing The Scenario Verify the sms functionality that sms is not send *******************
+[INFO ] 02-02-2023 10:52:21.538 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:21.543 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:21.544 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:21.544 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:21.551 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:21.557 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:21.561 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:21.562 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:21.562 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:21.568 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:21.685 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:52:21.686 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:21.690 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:21.691 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:21.691 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:21.698 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:21.782 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:52:32.678 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:52:32.678 [main] class - *************Ending The Scenario Verify the sms functionality that sms is not send *******************
+[INFO ] 02-02-2023 10:52:32.697 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:32.704 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:32.705 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:32.706 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:32.717 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:45.298 [main] class - ***************************Driver Initiated************************************
+[INFO ] 02-02-2023 10:52:45.298 [main] class - *************Executing The Scenario user verify the textswitcher functions *******************
+[INFO ] 02-02-2023 10:52:45.299 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:45.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:45.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:45.305 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:45.314 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:45.319 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:45.324 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:45.325 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:45.326 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:45.333 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:45.390 [main] class - *************Page Factory is initiated in homepage******************
+[INFO ] 02-02-2023 10:52:45.393 [main] class - ************************config file is readed*******************************
+[DEBUG] 02-02-2023 10:52:45.398 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 02-02-2023 10:52:45.400 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 02-02-2023 10:52:45.400 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 02-02-2023 10:52:45.407 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 02-02-2023 10:52:45.482 [main] class - *************************Page Factory initialization *************************
+[INFO ] 02-02-2023 10:52:48.535 [main] class - *****************swipeScreen(): dir: 'UP************
+[INFO ] 02-02-2023 10:52:49.802 [main] class - *****************swipeScreen(): dir: 'UP************
+[INFO ] 02-02-2023 10:52:51.325 [main] class - *****************swipeScreen(): dir: 'UP************
+[INFO ] 02-02-2023 10:52:55.619 [main] class - ******************************sevice Stoped******************************************
+[INFO ] 02-02-2023 10:52:55.619 [main] class - *************Ending The Scenario user verify the textswitcher functions *******************
